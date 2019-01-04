@@ -1,0 +1,108 @@
+
+
+
+body 
+{font-size: 100%;
+font-family: Tahoma, Verdana;
+/*font-weight: 600;*/ }
+a:link, a:visited
+{color: #2E4937; }
+a:active, a:hover 
+{color: #633; }
+
+
+
+#entercontentEn 
+{background-color: #E4F4FF;
+margin-left: 8%;
+margin-top: 0px; 
+width: 730px; }
+
+#logobarmain
+{background: url(images/logobarmain.jpg) ;
+border-left: solid 2px #48766D; 
+border-right: solid 2px #48766D;
+width: 726px;
+height: 135px;}
+
+#logobar
+{background: url(images/logobar.jpg) ;
+border-left: solid 2px #48766D; 
+border-right: solid 2px #48766D;
+width: 726px;
+height: 135px;}
+
+#bordertop 
+{background: url(../images/border_top_10.gif) ;} 
+
+#tavernbig
+{padding: 5px 0 0 5px; }
+
+#maintext
+{padding: 10px 20px 5px 20px; }
+
+#gallerymaintext
+{margin-bottom: 25px;
+padding: 15px 0 0 0; 
+text-align: center; }
+
+
+#langbar
+{margin-top: 10px;
+margin-left:400px;
+font-size: 1.2em ; 
+font-weight: bold ; }
+
+#backhome
+{font-size: 1em;
+font-weight: 600;
+margin-top: 70px;
+margin-left: 200px; }
+
+/* MENU */
+.right
+{text-align: right; }
+.center
+{text-align: center; }
+
+
+.grey 
+{color: #996; }
+
+
+
+.sep 
+{height: 5px;
+background-image: url(images/sep.gif) ;
+background-repeat: repeat-x right;
+}
+
+
+
+
+.contacts
+{font-variant: small-caps;
+font-family: "Arial Narrow", Arial, Franklin;
+color: #300; 
+font-size: 0.9em; }
+
+.bottomlinks
+{font-variant: small-caps;
+font-family: "Arial Narrow", Arial, Franklin;
+color: #300; 
+font-size: 0.8em; }
+
+.textlink
+{font-family: Verdana, Arial;
+font-variant: bold;
+font-size: 18px; }
+
+hr
+{color: #999;
+height: 1px;
+width: 75% ;
+text-align: center; }
+
+h2, h3, h4, h5 
+{text-align: center; }
+
